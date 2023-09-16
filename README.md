@@ -7,19 +7,21 @@
 >
 > 👨‍💻 Projeto desenvolvido no NLW IA
 
+![Dashboard](./upload-ai-web/assets/dashboard.png)
+
 ## 💻 Tecnologias
 
 Esse projeto utiliza-se das seguintes tecnologias:
 
-Front-End | Back-End
---------- | --------
+| **Front-End** | **Back-End** |
+| --------- | -------- |
 [React](https://react.dev) | [Node](https://nodejs.org/en)
 [Vite](https://vitejs.dev) | [Fastify](https://fastify.dev)
 [Typescript](https://www.typescriptlang.org) | [Prisma](https://www.prisma.io)
 [Radix-ui](https://www.radix-ui.com) | [Zod](https://zod.dev)
 [Tailwind](https://tailwindcss.com) | [OpenAi](https://openai.com)
 [Shadcn/ui](https://ui.shadcn.com) |
-[ffmpeg.wasm](https://ffmpegwasm.netlify.app) |
+[FFmpeg](https://ffmpegwasm.netlify.app) |
 
 ## 🏗️ Build Setup
 
