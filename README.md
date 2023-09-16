@@ -19,6 +19,7 @@ Front-End | Back-End
 [Radix-ui](https://www.radix-ui.com) | [Zod](https://zod.dev)
 [Tailwind](https://tailwindcss.com) | [OpenAi](https://openai.com)
 [Shadcn/ui](https://ui.shadcn.com) |
+[ffmpeg.wasm](https://ffmpegwasm.netlify.app) |
 
 ## 🏗️ Build Setup
 
