@@ -7,7 +7,7 @@
 >
 > 👨‍💻 Projeto desenvolvido no NLW IA
 
-![Dashboard](./upload-ai-web/assets/dashboard.png)
+![Dashboard](./upload-ai-web/src/assets/dashboard.png)
 
 ## 💻 Tecnologias
 
